@@ -1,0 +1,266 @@
+04/01/2023] [19:29:33] [DEBUG] - I enter Игра престолов in input field
+04/01/2023] [19:29:33] [ERROR] - I enter Игра престолов in input field
+04/01/2023] [19:29:33] [DEBUG] - I click on the [href="/film/464963/sr/2/"] link
+04/01/2023] [19:29:33] [ERROR] - I click on the [href="/film/464963/sr/2/"] link
+04/01/2023] [19:29:35] [DEBUG] -  should see the [alt="Игра престолов (Game of Thrones)"] image
+04/01/2023] [19:29:35] [ERROR] -  should see the [alt="Игра престолов (Game of Thrones)"] image
+04/01/2023] [19:29:40] [DEBUG] - I click on the button a.styles_root__OkfMY
+04/01/2023] [19:29:40] [ERROR] - I click on the button a.styles_root__OkfMY
+04/01/2023] [19:29:46] [DEBUG] - I enter Бесстыжиеin input field
+04/01/2023] [19:29:46] [ERROR] - I enter Бесстыжиеin input field
+04/01/2023] [19:29:52] [DEBUG] - I click on the link //h3[contains(@class,"film-page-section-title")]//a[text()="Билеты в кино"]
+04/01/2023] [19:29:52] [ERROR] - I click on the link //h3[contains(@class,"film-page-section-title")]//a[text()="Билеты в кино"]
+04/01/2023] [19:29:57] [DEBUG] - I click on the icon svg.search-form-submit-button__icon
+04/01/2023] [19:29:57] [ERROR] - I click on the icon svg.search-form-submit-button__icon
+04/01/2023] [19:32:11] [DEBUG] - I enter Игра престолов in input field
+04/01/2023] [19:32:11] [ERROR] - I enter Игра престолов in input field
+04/01/2023] [19:32:12] [DEBUG] - I click on the [href="/film/464963/sr/2/"] link
+04/01/2023] [19:32:12] [ERROR] - I click on the [href="/film/464963/sr/2/"] link
+04/01/2023] [19:32:13] [DEBUG] -  should see the [alt="Игра престолов (Game of Thrones)"] image
+04/01/2023] [19:32:13] [ERROR] -  should see the [alt="Игра престолов (Game of Thrones)"] image
+04/01/2023] [19:36:08] [DEBUG] - I click on the button a.styles_root__OkfMY
+04/01/2023] [19:36:08] [ERROR] - I click on the button a.styles_root__OkfMY
+04/01/2023] [19:37:01] [DEBUG] - I click on the button a.styles_root__OkfMY
+04/01/2023] [19:37:01] [ERROR] - I click on the button a.styles_root__OkfMY
+04/01/2023] [19:37:59] [DEBUG] - I click on the button a.styles_root__OkfMY
+04/01/2023] [19:37:59] [ERROR] - I click on the button a.styles_root__OkfMY
+04/01/2023] [19:38:49] [DEBUG] - I click on the button a.styles_root__OkfMY
+04/01/2023] [19:38:49] [ERROR] - I click on the button a.styles_root__OkfMY
+04/01/2023] [19:39:33] [DEBUG] - I click on the button a.styles_root__OkfMY
+04/01/2023] [19:39:33] [ERROR] - I click on the button a.styles_root__OkfMY
+04/01/2023] [19:43:46] [DEBUG] - I click on the button a.styles_root__OkfMY
+04/01/2023] [19:43:46] [ERROR] - I click on the button a.styles_root__OkfMY
+04/01/2023] [19:45:25] [DEBUG] - I enter Бесстыжиеin input field
+04/01/2023] [19:45:25] [ERROR] - I enter Бесстыжиеin input field
+04/01/2023] [19:46:18] [DEBUG] - I enter Бесстыжиеin input field
+04/01/2023] [19:46:18] [ERROR] - I enter Бесстыжиеin input field
+04/01/2023] [19:50:07] [DEBUG] - I enter Бесстыжиеin input field
+04/01/2023] [19:50:07] [ERROR] - I enter Бесстыжиеin input field
+04/01/2023] [19:51:06] [DEBUG] - I enter Бесстыжиеin input field
+04/01/2023] [19:51:06] [ERROR] - I enter Бесстыжиеin input field
+04/01/2023] [19:52:21] [DEBUG] - I enter Игра престолов in input field
+04/01/2023] [19:52:21] [ERROR] - I enter Игра престолов in input field
+04/01/2023] [19:52:27] [DEBUG] - I click on the button a.styles_root__OkfMY
+04/01/2023] [19:52:27] [ERROR] - I click on the button a.styles_root__OkfMY
+04/01/2023] [19:52:33] [DEBUG] - I enter Бесстыжиеin input field
+04/01/2023] [19:52:33] [ERROR] - I enter Бесстыжиеin input field
+04/01/2023] [19:52:38] [DEBUG] - I click on the link //h3[contains(@class,"film-page-section-title")]//a[text()="Билеты в кино"]
+04/01/2023] [19:52:38] [ERROR] - I click on the link //h3[contains(@class,"film-page-section-title")]//a[text()="Билеты в кино"]
+04/01/2023] [19:52:44] [DEBUG] - I click on the icon svg.search-form-submit-button__icon
+04/01/2023] [19:52:44] [ERROR] - I click on the icon svg.search-form-submit-button__icon
+04/01/2023] [19:55:23] [DEBUG] - I enter Бесстыжиеin input field
+04/01/2023] [19:55:23] [ERROR] - I enter Бесстыжиеin input field
+04/01/2023] [19:56:10] [DEBUG] - I enter Бесстыжиеin input field
+04/01/2023] [19:56:10] [ERROR] - I enter Бесстыжиеin input field
+04/01/2023] [20:02:17] [DEBUG] - I enter Игра престолов in input field
+04/01/2023] [20:02:17] [ERROR] - I enter Игра престолов in input field
+04/01/2023] [20:02:23] [DEBUG] - I click on the button a.styles_root__OkfMY
+04/01/2023] [20:02:23] [ERROR] - I click on the button a.styles_root__OkfMY
+04/01/2023] [20:02:29] [DEBUG] - I enter Бесстыжиеin input field
+04/01/2023] [20:02:29] [ERROR] - I enter Бесстыжиеin input field
+04/01/2023] [20:02:34] [DEBUG] - I click on the link //h3[contains(@class,"film-page-section-title")]//a[text()="Билеты в кино"]
+04/01/2023] [20:02:34] [ERROR] - I click on the link //h3[contains(@class,"film-page-section-title")]//a[text()="Билеты в кино"]
+04/01/2023] [20:02:40] [DEBUG] - I click on the icon svg.search-form-submit-button__icon
+04/01/2023] [20:02:40] [ERROR] - I click on the icon svg.search-form-submit-button__icon
+05/01/2023] [11:35:59] [DEBUG] - I enter Игра престолов in input field
+05/01/2023] [11:35:59] [ERROR] - I enter Игра престолов in input field
+05/01/2023] [11:35:59] [DEBUG] - I click on the [href="/film/464963/sr/2/"] link
+05/01/2023] [11:35:59] [ERROR] - I click on the [href="/film/464963/sr/2/"] link
+05/01/2023] [11:36:01] [DEBUG] -  should see the [alt="Игра престолов (Game of Thrones)"] image
+05/01/2023] [11:36:01] [ERROR] -  should see the [alt="Игра престолов (Game of Thrones)"] image
+05/01/2023] [11:36:01] [DEBUG] - I click on the button a.styles_root__OkfMY
+05/01/2023] [11:36:01] [ERROR] - I click on the button a.styles_root__OkfMY
+05/01/2023] [11:36:07] [DEBUG] - I enter Бесстыжиеin input field
+05/01/2023] [11:36:07] [ERROR] - I enter Бесстыжиеin input field
+05/01/2023] [11:36:08] [DEBUG] - I click on the [href="/film/571335/sr/2/"]
+05/01/2023] [11:36:08] [ERROR] - I click on the [href="/film/571335/sr/2/"]
+05/01/2023] [11:36:09] [DEBUG] - I should see div.styles_listPosition__zA9OU
+05/01/2023] [11:36:09] [ERROR] - I should see div.styles_listPosition__zA9OU
+05/01/2023] [11:36:15] [DEBUG] - I click on the link //h3[contains(@class,"film-page-section-title")]//a[text()="Билеты в кино"]
+05/01/2023] [11:36:15] [ERROR] - I click on the link //h3[contains(@class,"film-page-section-title")]//a[text()="Билеты в кино"]
+05/01/2023] [11:36:20] [DEBUG] - I click on the icon svg.search-form-submit-button__icon
+05/01/2023] [11:36:20] [ERROR] - I click on the icon svg.search-form-submit-button__icon
+05/01/2023] [11:36:29] [DEBUG] - I should see the button "[alt="Игра престолов (Game of Thrones)"] is existing
+05/01/2023] [11:36:29] [ERROR] - I should see the button "[alt="Игра престолов (Game of Thrones)"] is existing
+05/01/2023] [11:50:35] [DEBUG] - I enter Игра престолов in input field
+05/01/2023] [11:50:35] [ERROR] - I enter Игра престолов in input field
+05/01/2023] [11:50:36] [DEBUG] - I click on the [href="/film/464963/sr/2/"] link
+05/01/2023] [11:50:36] [ERROR] - I click on the [href="/film/464963/sr/2/"] link
+05/01/2023] [11:50:37] [DEBUG] -  should see the [alt="Игра престолов (Game of Thrones)"] image
+05/01/2023] [11:50:37] [ERROR] -  should see the [alt="Игра престолов (Game of Thrones)"] image
+05/01/2023] [11:50:38] [DEBUG] - I click on the button a.styles_plusDesktopBrandingButton__X4z6T
+05/01/2023] [11:50:38] [ERROR] - I click on the button a.styles_plusDesktopBrandingButton__X4z6T
+05/01/2023] [11:50:40] [DEBUG] - I should see the button [data-tid="a2e1f6ab"] is enabled
+05/01/2023] [11:50:40] [ERROR] - I should see the button [data-tid="a2e1f6ab"] is enabled
+05/01/2023] [11:50:46] [DEBUG] - I enter Бесстыжиеin input field
+05/01/2023] [11:50:46] [ERROR] - I enter Бесстыжиеin input field
+05/01/2023] [11:50:46] [DEBUG] - I click on the [href="/film/571335/sr/2/"]
+05/01/2023] [11:50:46] [ERROR] - I click on the [href="/film/571335/sr/2/"]
+05/01/2023] [11:50:47] [DEBUG] - I should see div.styles_listPosition__zA9OU
+05/01/2023] [11:50:47] [ERROR] - I should see div.styles_listPosition__zA9OU
+05/01/2023] [11:50:53] [DEBUG] - I click on the link //h3[contains(@class,"film-page-section-title")]//a[text()="Билеты в кино"]
+05/01/2023] [11:50:53] [ERROR] - I click on the link //h3[contains(@class,"film-page-section-title")]//a[text()="Билеты в кино"]
+05/01/2023] [11:50:59] [DEBUG] - I click on the icon svg.search-form-submit-button__icon
+05/01/2023] [11:50:59] [ERROR] - I click on the icon svg.search-form-submit-button__icon
+05/01/2023] [11:51:01] [DEBUG] - I should see the button "[alt="Игра престолов (Game of Thrones)"] is existing
+05/01/2023] [11:51:01] [ERROR] - I should see the button "[alt="Игра престолов (Game of Thrones)"] is existing
+05/01/2023] [13:01:19] [DEBUG] - I enter Игра престолов in input field
+05/01/2023] [13:01:19] [ERROR] - I enter Игра престолов in input field
+05/01/2023] [13:01:19] [DEBUG] - I click on the [href="/film/464963/sr/2/"] link
+05/01/2023] [13:01:19] [ERROR] - I click on the [href="/film/464963/sr/2/"] link
+05/01/2023] [13:01:21] [DEBUG] -  should see the [alt="Игра престолов (Game of Thrones)"] image
+05/01/2023] [13:01:21] [ERROR] -  should see the [alt="Игра престолов (Game of Thrones)"] image
+05/01/2023] [13:01:21] [DEBUG] - I click on the button a.styles_plusDesktopBrandingButton__X4z6T
+05/01/2023] [13:01:21] [ERROR] - I click on the button a.styles_plusDesktopBrandingButton__X4z6T
+05/01/2023] [13:01:24] [DEBUG] - I should see the button [data-tid="2be7a1eb"] is enabled
+05/01/2023] [13:01:24] [ERROR] - I should see the button [data-tid="2be7a1eb"] is enabled
+05/01/2023] [13:01:25] [DEBUG] - I enter Уэнсдейin input field
+05/01/2023] [13:01:25] [ERROR] - I enter Уэнсдейin input field
+05/01/2023] [13:01:25] [DEBUG] - I click on the [href="/film/4365427/sr/2/"]
+05/01/2023] [13:01:25] [ERROR] - I click on the [href="/film/4365427/sr/2/"]
+05/01/2023] [13:01:27] [DEBUG] - I click on the link div.styles_navigationMenu__c_jLJ a.styles_root__7mPJN:nth-child(5)
+05/01/2023] [13:01:27] [ERROR] - I click on the link div.styles_navigationMenu__c_jLJ a.styles_root__7mPJN:nth-child(5)
+05/01/2023] [13:01:27] [DEBUG] - I click on the icon svg.search-form-submit-button__icon
+05/01/2023] [13:01:27] [ERROR] - I click on the icon svg.search-form-submit-button__icon
+05/01/2023] [13:01:29] [DEBUG] - I should see the button "[alt="Игра престолов (Game of Thrones)"] is existing
+05/01/2023] [13:01:29] [ERROR] - I should see the button "[alt="Игра престолов (Game of Thrones)"] is existing
+05/01/2023] [13:16:58] [DEBUG] - I enter Игра престолов in input field
+05/01/2023] [13:16:58] [ERROR] - I enter Игра престолов in input field
+05/01/2023] [13:16:58] [DEBUG] - I click on the [href="/film/464963/sr/2/"] link
+05/01/2023] [13:16:58] [ERROR] - I click on the [href="/film/464963/sr/2/"] link
+05/01/2023] [13:17:00] [DEBUG] -  should see the [alt="Игра престолов (Game of Thrones)"] image
+05/01/2023] [13:17:00] [ERROR] -  should see the [alt="Игра престолов (Game of Thrones)"] image
+05/01/2023] [13:17:01] [DEBUG] - I click on the button a.styles_plusDesktopBrandingButton__X4z6T
+05/01/2023] [13:17:01] [ERROR] - I click on the button a.styles_plusDesktopBrandingButton__X4z6T
+05/01/2023] [13:17:02] [DEBUG] - I should see the button [data-tid="2be7a1eb"] is enabled
+05/01/2023] [13:17:02] [ERROR] - I should see the button [data-tid="2be7a1eb"] is enabled
+05/01/2023] [13:17:03] [DEBUG] - I enter Уэнсдейin input field
+05/01/2023] [13:17:03] [ERROR] - I enter Уэнсдейin input field
+05/01/2023] [13:17:03] [DEBUG] - I click on the [href="/film/4365427/sr/2/"]
+05/01/2023] [13:17:03] [ERROR] - I click on the [href="/film/4365427/sr/2/"]
+05/01/2023] [13:17:04] [DEBUG] - I should see span.styles_listTitle__9G9Q9
+05/01/2023] [13:17:04] [ERROR] - I should see span.styles_listTitle__9G9Q9
+05/01/2023] [13:17:05] [DEBUG] - I click on the link div.styles_root__RBtQR a.styles_root__7mPJN:nth-child(5)
+05/01/2023] [13:17:05] [ERROR] - I click on the link div.styles_root__RBtQR a.styles_root__7mPJN:nth-child(5)
+05/01/2023] [13:17:06] [DEBUG] - I click on the icon svg.search-form-submit-button__icon
+05/01/2023] [13:17:06] [ERROR] - I click on the icon svg.search-form-submit-button__icon
+05/01/2023] [13:17:10] [DEBUG] - I should see the button "[alt="Игра престолов (Game of Thrones)"] is existing
+05/01/2023] [13:17:10] [ERROR] - I should see the button "[alt="Игра престолов (Game of Thrones)"] is existing
+05/01/2023] [13:32:11] [DEBUG] - I enter Игра престолов in input field
+05/01/2023] [13:32:11] [ERROR] - I enter Игра престолов in input field
+05/01/2023] [13:32:11] [DEBUG] - I click on the [href="/film/464963/sr/2/"] link
+05/01/2023] [13:32:11] [ERROR] - I click on the [href="/film/464963/sr/2/"] link
+05/01/2023] [13:32:13] [DEBUG] -  should see the [alt="Игра престолов (Game of Thrones)"] image
+05/01/2023] [13:32:13] [ERROR] -  should see the [alt="Игра престолов (Game of Thrones)"] image
+05/01/2023] [13:32:14] [DEBUG] - I click on the button a.styles_plusDesktopBrandingButton__X4z6T
+05/01/2023] [13:32:14] [ERROR] - I click on the button a.styles_plusDesktopBrandingButton__X4z6T
+05/01/2023] [13:32:16] [DEBUG] - I should see the button [data-tid="2be7a1eb"] is enabled
+05/01/2023] [13:32:16] [ERROR] - I should see the button [data-tid="2be7a1eb"] is enabled
+05/01/2023] [13:32:17] [DEBUG] - I enter Уэнсдейin input field
+05/01/2023] [13:32:17] [ERROR] - I enter Уэнсдейin input field
+05/01/2023] [13:32:17] [DEBUG] - I click on the [href="/film/4365427/sr/2/"]
+05/01/2023] [13:32:17] [ERROR] - I click on the [href="/film/4365427/sr/2/"]
+05/01/2023] [13:32:18] [DEBUG] - I should see span.styles_listTitle__9G9Q9
+05/01/2023] [13:32:18] [ERROR] - I should see span.styles_listTitle__9G9Q9
+05/01/2023] [13:32:19] [DEBUG] - I click on the link .styles_lightThemeItem__BSbZW:nth-child(5)
+05/01/2023] [13:32:19] [ERROR] - I click on the link .styles_lightThemeItem__BSbZW:nth-child(5)
+05/01/2023] [13:32:20] [DEBUG] - I click on the icon svg.search-form-submit-button__icon
+05/01/2023] [13:32:20] [ERROR] - I click on the icon svg.search-form-submit-button__icon
+05/01/2023] [13:32:22] [DEBUG] - I should see the button "[alt="Игра престолов (Game of Thrones)"] is existing
+05/01/2023] [13:32:22] [ERROR] - I should see the button "[alt="Игра престолов (Game of Thrones)"] is existing
+05/01/2023] [13:52:41] [DEBUG] - I click on the link body.body:nth-child(2) div.styles_root__nRLZC div.styles_middleContainer__K7dth.styles_baseContainer__AWlLR div.styles_mainContainer__d7tsS div.styles_root__QH79n div.styles_root__2kxYy div.styles_column__r2MWX.styles_lg_5__tZpX0.styles_column__Wqs7y.styles_sidebarColumn__kpYI5:nth-child(1) div.styles_sidebarContainer__dxNPY div:nth-child(1) div.styles_sticky__mDnbt div.styles_root__RBtQR > a.styles_root__7mPJN.styles_lightThemeItem__BSbZW:nth-child(5)
+05/01/2023] [13:52:41] [ERROR] - I click on the link body.body:nth-child(2) div.styles_root__nRLZC div.styles_middleContainer__K7dth.styles_baseContainer__AWlLR div.styles_mainContainer__d7tsS div.styles_root__QH79n div.styles_root__2kxYy div.styles_column__r2MWX.styles_lg_5__tZpX0.styles_column__Wqs7y.styles_sidebarColumn__kpYI5:nth-child(1) div.styles_sidebarContainer__dxNPY div:nth-child(1) div.styles_sticky__mDnbt div.styles_root__RBtQR > a.styles_root__7mPJN.styles_lightThemeItem__BSbZW:nth-child(5)
+05/01/2023] [13:54:34] [DEBUG] - I click on the link //body/div[@id='__next']/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[5]
+05/01/2023] [13:54:34] [ERROR] - I click on the link //body/div[@id='__next']/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[5]
+05/01/2023] [13:58:15] [DEBUG] - I click on the link [href="/afisha/new/"]
+05/01/2023] [13:58:15] [ERROR] - I click on the link [href="/afisha/new/"]
+05/01/2023] [14:08:13] [DEBUG] - I click on the link #__next > div.styles_root__nRLZC > div.styles_middleContainer__K7dth.styles_baseContainer__AWlLR > div.styles_mainContainer__d7tsS > div > div > div.styles_column__r2MWX.styles_lg_5__tZpX0.styles_column__Wqs7y.styles_sidebarColumn__kpYI5 > div > div > div > div > a:nth-child(5) > img
+05/01/2023] [14:08:13] [ERROR] - I click on the link #__next > div.styles_root__nRLZC > div.styles_middleContainer__K7dth.styles_baseContainer__AWlLR > div.styles_mainContainer__d7tsS > div > div > div.styles_column__r2MWX.styles_lg_5__tZpX0.styles_column__Wqs7y.styles_sidebarColumn__kpYI5 > div > div > div > div > a:nth-child(5) > img
+05/01/2023] [14:13:26] [DEBUG] - I click on the link [class=styles_sticky__mDnbt] a[href*='afisha/new']
+05/01/2023] [14:13:26] [ERROR] - I click on the link [class=styles_sticky__mDnbt] a[href*='afisha/new']
+05/01/2023] [14:30:36] [DEBUG] - I click on the link [class=styles_root__RBtQR] a[href="/afisha/new/"]
+05/01/2023] [14:30:36] [ERROR] - I click on the link [class=styles_root__RBtQR] a[href="/afisha/new/"]
+05/01/2023] [14:31:09] [DEBUG] - I click on the link [class=styles_root__RBtQR] a[href="/afisha/new/"]
+05/01/2023] [14:31:09] [ERROR] - I click on the link [class=styles_root__RBtQR] a[href="/afisha/new/"]
+05/01/2023] [15:00:55] [DEBUG] - I click on the link [class=styles_root__RBtQR] a[href="/afisha/new/"]
+05/01/2023] [15:00:55] [ERROR] - I click on the link [class=styles_root__RBtQR] a[href="/afisha/new/"]
+05/01/2023] [15:01:02] [DEBUG] - I should see the button //div[contains(@class,"myBoardButton ")]//a[text()="Моя афиша"] is clickable
+05/01/2023] [15:01:02] [ERROR] - I click on the link //div[contains(@class,"myBoardButton ")]//a[text()="Моя афиша"]
+05/01/2023] [15:01:40] [DEBUG] - I enter Игра престолов in input field
+05/01/2023] [15:01:40] [ERROR] - I enter Игра престолов in input field
+05/01/2023] [15:01:41] [DEBUG] - I click on the [href="/film/464963/sr/2/"] link
+05/01/2023] [15:01:41] [ERROR] - I click on the [href="/film/464963/sr/2/"] link
+05/01/2023] [15:01:43] [DEBUG] -  should see the [alt="Игра престолов (Game of Thrones)"] image
+05/01/2023] [15:01:43] [ERROR] -  should see the [alt="Игра престолов (Game of Thrones)"] image
+05/01/2023] [15:01:44] [DEBUG] - I click on the button a.styles_plusDesktopBrandingButton__X4z6T
+05/01/2023] [15:01:44] [ERROR] - I click on the button a.styles_plusDesktopBrandingButton__X4z6T
+05/01/2023] [15:01:45] [DEBUG] - I should see the button [data-tid="2be7a1eb"] is enabled
+05/01/2023] [15:01:45] [ERROR] - I should see the button [data-tid="2be7a1eb"] is enabled
+05/01/2023] [15:01:46] [DEBUG] - I enter Уэнсдейin input field
+05/01/2023] [15:01:46] [ERROR] - I enter Уэнсдейin input field
+05/01/2023] [15:01:46] [DEBUG] - I click on the [href="/film/4365427/sr/2/"]
+05/01/2023] [15:01:46] [ERROR] - I click on the [href="/film/4365427/sr/2/"]
+05/01/2023] [15:01:48] [DEBUG] - I should see span.styles_listTitle__9G9Q9
+05/01/2023] [15:01:48] [ERROR] - I should see span.styles_listTitle__9G9Q9
+05/01/2023] [15:01:49] [DEBUG] - I click on the link [class=styles_root__RBtQR] a[href="/afisha/new/"]
+05/01/2023] [15:01:49] [ERROR] - I click on the link [class=styles_root__RBtQR] a[href="/afisha/new/"]
+05/01/2023] [15:01:51] [DEBUG] - I should see the button //div[contains(@class,"myBoardButton ")]//a[text()="Моя афиша"] is clickable
+05/01/2023] [15:01:51] [ERROR] - I click on the link //div[contains(@class,"myBoardButton ")]//a[text()="Моя афиша"]
+05/01/2023] [15:01:52] [DEBUG] - I click on the icon svg.search-form-submit-button__icon
+05/01/2023] [15:01:52] [ERROR] - I click on the icon svg.search-form-submit-button__icon
+05/01/2023] [15:01:53] [DEBUG] - I should see the button "[alt="Игра престолов (Game of Thrones)"] is existing
+05/01/2023] [15:01:53] [ERROR] - I should see the button "[alt="Игра престолов (Game of Thrones)"] is existing
+05/01/2023] [15:18:36] [DEBUG] - I enter Игра престолов in input field
+05/01/2023] [15:18:36] [ERROR] - I enter Игра престолов in input field
+05/01/2023] [15:18:37] [DEBUG] - I click on the [href="/film/464963/sr/2/"] link
+05/01/2023] [15:18:37] [ERROR] - I click on the [href="/film/464963/sr/2/"] link
+05/01/2023] [15:18:39] [DEBUG] -  should see the [alt="Игра престолов (Game of Thrones)"] image
+05/01/2023] [15:18:39] [ERROR] -  should see the [alt="Игра престолов (Game of Thrones)"] image
+05/01/2023] [15:18:40] [DEBUG] - I click on the button a.styles_plusDesktopBrandingButton__X4z6T
+05/01/2023] [15:18:40] [ERROR] - I click on the button a.styles_plusDesktopBrandingButton__X4z6T
+05/01/2023] [15:18:41] [DEBUG] - I should see the button [data-tid="2be7a1eb"] is enabled
+05/01/2023] [15:18:41] [ERROR] - I should see the button [data-tid="2be7a1eb"] is enabled
+05/01/2023] [15:18:43] [DEBUG] - I click on the link [class=styles_root__RBtQR] a[href="/afisha/new/"]
+05/01/2023] [15:18:43] [ERROR] - I click on the link [class=styles_root__RBtQR] a[href="/afisha/new/"]
+05/01/2023] [15:18:46] [DEBUG] - I should see the button //div[contains(@class,"myBoardButton ")]//a[text()="Моя афиша"] is clickable
+05/01/2023] [15:18:46] [ERROR] - I click on the link //div[contains(@class,"myBoardButton ")]//a[text()="Моя афиша"]
+05/01/2023] [15:18:47] [DEBUG] - I click on the icon svg.search-form-submit-button__icon
+05/01/2023] [15:18:47] [ERROR] - I click on the icon svg.search-form-submit-button__icon
+05/01/2023] [15:18:48] [DEBUG] - I should see the button "[alt="Игра престолов (Game of Thrones)"] is existing
+05/01/2023] [15:18:48] [ERROR] - I should see the button "[alt="Игра престолов (Game of Thrones)"] is existing
+05/01/2023] [15:21:12] [DEBUG] - I enter Уэнсдейin input field
+05/01/2023] [15:21:12] [ERROR] - I enter Уэнсдейin input field
+05/01/2023] [15:21:13] [DEBUG] - I click on the [href="/film/4365427/sr/2/"]
+05/01/2023] [15:21:13] [ERROR] - I click on the [href="/film/4365427/sr/2/"]
+05/01/2023] [15:21:14] [DEBUG] - I should see span.styles_listTitle__9G9Q9
+05/01/2023] [15:21:14] [ERROR] - I should see span.styles_listTitle__9G9Q9
+05/01/2023] [15:21:58] [DEBUG] - I enter Уэнсдейin input field
+05/01/2023] [15:21:58] [ERROR] - I enter Уэнсдейin input field
+05/01/2023] [15:21:58] [DEBUG] - I click on the [href="/film/4365427/sr/2/"]
+05/01/2023] [15:21:58] [ERROR] - I click on the [href="/film/4365427/sr/2/"]
+05/01/2023] [15:22:00] [DEBUG] - I should see span.styles_listTitle__9G9Q9
+05/01/2023] [15:22:00] [ERROR] - I should see span.styles_listTitle__9G9Q9
+05/01/2023] [15:25:13] [DEBUG] - I enter Игра престолов in input field
+05/01/2023] [15:25:13] [ERROR] - I enter Игра престолов in input field
+05/01/2023] [15:25:13] [DEBUG] - I click on the [href="/film/464963/sr/2/"] link
+05/01/2023] [15:25:13] [ERROR] - I click on the [href="/film/464963/sr/2/"] link
+05/01/2023] [15:25:15] [DEBUG] -  should see the [alt="Игра престолов (Game of Thrones)"] image
+05/01/2023] [15:25:15] [ERROR] -  should see the [alt="Игра престолов (Game of Thrones)"] image
+05/01/2023] [15:25:16] [DEBUG] - I click on the button a.styles_plusDesktopBrandingButton__X4z6T
+05/01/2023] [15:25:16] [ERROR] - I click on the button a.styles_plusDesktopBrandingButton__X4z6T
+05/01/2023] [15:25:19] [DEBUG] - I should see the button [data-tid="2be7a1eb"] is enabled
+05/01/2023] [15:25:19] [ERROR] - I should see the button [data-tid="2be7a1eb"] is enabled
+05/01/2023] [15:25:20] [DEBUG] - I enter Уэнсдейin input field
+05/01/2023] [15:25:20] [ERROR] - I enter Уэнсдейin input field
+05/01/2023] [15:25:20] [DEBUG] - I click on the [href="/film/4365427/sr/2/"]
+05/01/2023] [15:25:20] [ERROR] - I click on the [href="/film/4365427/sr/2/"]
+05/01/2023] [15:25:21] [DEBUG] - I should see span.styles_listTitle__9G9Q9
+05/01/2023] [15:25:21] [ERROR] - I should see span.styles_listTitle__9G9Q9
+05/01/2023] [15:25:22] [DEBUG] - I click on the link [class=styles_root__RBtQR] a[href="/afisha/new/"]
+05/01/2023] [15:25:22] [ERROR] - I click on the link [class=styles_root__RBtQR] a[href="/afisha/new/"]
+05/01/2023] [15:25:24] [DEBUG] - I should see the button //div[contains(@class,"myBoardButton ")]//a[text()="Моя афиша"] is clickable
+05/01/2023] [15:25:24] [ERROR] - I click on the link //div[contains(@class,"myBoardButton ")]//a[text()="Моя афиша"]
+05/01/2023] [15:25:25] [DEBUG] - I click on the icon svg.search-form-submit-button__icon
+05/01/2023] [15:25:25] [ERROR] - I click on the icon svg.search-form-submit-button__icon
+05/01/2023] [15:25:26] [DEBUG] - I should see the button "[alt="Игра престолов (Game of Thrones)"] is existing
+05/01/2023] [15:25:26] [ERROR] - I should see the button "[alt="Игра престолов (Game of Thrones)"] is existing
